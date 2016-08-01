@@ -1,4 +1,4 @@
-== Warehouse manager
+## Warehouse manager
 
 Simple example of a database relationship between warehouses, shipments, and products.
 
